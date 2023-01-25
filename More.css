@@ -1,0 +1,25 @@
+*{
+    font-family: cursive;
+    
+}
+nav{
+    background-color: rgb(122, 163, 238);
+    font-size: 20px;
+    padding: 5px;
+}
+a{
+    color: black;
+}
+.navbar a{
+    float: top;
+}
+body{
+    background-image: url("Mainbg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a:hover{
+    color: whitesmoke;
+}

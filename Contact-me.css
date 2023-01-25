@@ -1,0 +1,116 @@
+*{
+    font-family: cursive;
+}
+nav{
+    background-color: rgb(230, 171, 196);
+    font-size: 15px;
+    padding: 5px;
+    border-style:solid;
+    border-width:1px;
+    border-radius: 10px;
+    font-size: larger;
+    height: 40px;
+}
+a{
+    color: black;
+}
+.navbar a{
+    float: top;
+}
+.float-right{
+    float: right;
+}
+.fb{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.insta{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.tweet{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 65px;
+    
+}
+.fa-facebook{
+    color: rgb(41, 41, 184);
+}
+.fa-instagram{
+    color:palevioletred;
+}
+.fa-twitter{
+    color:rgb(58, 118, 230);
+}
+body{
+    background-image: url("bgme.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.dis{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.fa-discord{
+    color:rgb(127, 72, 230);
+}
+.me{
+    margin-left: 1000px;
+    margin-top:-700px;
+    border-radius: 20px;
+}
+a:hover{
+    color: whitesmoke;
+}
+.reddit{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.fa-reddit{
+    color:rgb(248, 92, 2);
+}
+.email{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.fa-envelope{
+    color:white;
+}

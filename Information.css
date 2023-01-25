@@ -1,0 +1,26 @@
+*{
+    font-family: cursive;
+}
+nav{
+    background-color: rgb(230, 171, 196);
+    font-size: 15px;
+    padding: 5px;
+    border-style:solid;
+    border-width:1px;
+    border-radius: 10px;
+    font-size: larger;
+    height: 40px;
+}
+a{
+    color: black;
+}
+body{
+    background-image: url("bgme.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+a:hover{
+    color: whitesmoke;
+}
